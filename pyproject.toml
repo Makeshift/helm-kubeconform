@@ -26,7 +26,7 @@ license = { text = "GPL-3.0-or-later" }
 name = "helm-kubeconform"
 readme = "README.md"
 requires-python = ">=3.9"
-version = "0.6.7.1"
+version = "0.6.71"
 
 [build-system]
 build-backend = "setuptools.build_meta"
